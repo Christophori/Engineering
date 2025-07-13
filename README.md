@@ -1,2 +1,6 @@
-# University of Idaho Mechanical Engineering
-# ME 3300 Engineering Measurement Systems 
+---
+layout: default
+---
+[Link to another page](/ME_330.html).
+
+hello
